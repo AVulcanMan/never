@@ -1,0 +1,1 @@
+alert("We use cookies");
