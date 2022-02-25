@@ -1,1 +1,1 @@
-alert("We use cookies");
+//alert("We use cookies");
